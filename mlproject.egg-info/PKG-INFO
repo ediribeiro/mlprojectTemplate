@@ -3,6 +3,7 @@ Name: mlproject
 Version: 0.0.1
 Author: Eduribeiro
 Author-email: edu.alri@gmail
+License-File: LICENSE
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
@@ -10,3 +11,4 @@ Requires-Dist: matplotlib
 Requires-Dist: scikit-learn
 Requires-Dist: catboost
 Requires-Dist: xgboost
+Requires-Dist: dill
